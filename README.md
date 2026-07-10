@@ -17,7 +17,6 @@
 
 - [代理软件下载地址](docs/proxy-client-downloads.md)
 - [更新订阅提示无效的订阅怎么办](docs/troubleshooting/invalid-subscription.md)
-- [查询流量机器人绑定教程](docs/tools/traffic-bot-binding.md)
 - [Shadowrocket 小火箭使用教程](docs/ios/shadowrocket.md)
 - [Shadowrocket 账号与下载安全提醒](docs/ios/shadowrocket-account-safety.md)
 

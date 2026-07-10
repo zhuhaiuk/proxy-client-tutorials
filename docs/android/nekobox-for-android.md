@@ -18,13 +18,13 @@
 
 下图是 NekoBox for Android 的软件图标，用于确认没有打开到其他同名或仿冒客户端。
 
-![NekoBox for Android 软件图标截图](../../assets/images/tutorial/42.png)
+<img src="../../assets/images/tutorial/42.png" alt="NekoBox for Android 软件图标截图" width="360">
 
 ### 主界面预览
 
 下图是 NekoBox for Android 的主界面或初始界面，后续步骤会从这里开始操作。
 
-![NekoBox for Android 主界面预览截图](../../assets/images/tutorial/43.png)
+<img src="../../assets/images/tutorial/43.png" alt="NekoBox for Android 主界面预览截图" width="360">
 
 ## 操作步骤
 
@@ -32,61 +32,61 @@
 
 点击左上角三条横线，进入侧边菜单。
 
-![NekoBox for Android 打开侧边栏截图](../../assets/images/tutorial/43.png)
+<img src="../../assets/images/tutorial/43.png" alt="NekoBox for Android 打开侧边栏截图" width="360">
 
 ### 2. 进入分组
 
 在菜单里选择“分组”。
 
-![NekoBox for Android 进入分组截图](../../assets/images/tutorial/44.png)
+<img src="../../assets/images/tutorial/44.png" alt="NekoBox for Android 进入分组截图" width="360">
 
 ### 3. 新增分组
 
 进入分组页面后点击右上角添加按钮。
 
-![NekoBox for Android 新增分组截图](../../assets/images/tutorial/45.png)
+<img src="../../assets/images/tutorial/45.png" alt="NekoBox for Android 新增分组截图" width="360">
 
 ### 4. 查看分组编辑页
 
 进入新建分组界面，准备填写订阅信息。
 
-![NekoBox for Android 查看分组编辑页截图](../../assets/images/tutorial/46.png)
+<img src="../../assets/images/tutorial/46.png" alt="NekoBox for Android 查看分组编辑页截图" width="360">
 
 ### 5. 配置订阅分组
 
 将分组类型改为订阅，分组名填写备注，在订阅链接处粘贴官网复制的链接，点击右上角勾号保存。
 
-![NekoBox for Android 配置订阅分组截图](../../assets/images/tutorial/47.png)
+<img src="../../assets/images/tutorial/47.png" alt="NekoBox for Android 配置订阅分组截图" width="360">
 
 ### 6. 更新订阅
 
 返回上一级页面，点击更新，等待节点列表下载完成。
 
-![NekoBox for Android 更新订阅截图](../../assets/images/tutorial/48.png)
+<img src="../../assets/images/tutorial/48.png" alt="NekoBox for Android 更新订阅截图" width="360">
 
 ### 7. 回到节点列表
 
 回到首页后可以看到节点已出现，此时还需要测试真连接。
 
-![NekoBox for Android 回到节点列表截图](../../assets/images/tutorial/49.png)
+<img src="../../assets/images/tutorial/49.png" alt="NekoBox for Android 回到节点列表截图" width="360">
 
 ### 8. 打开更多菜单
 
 点击右上角三个点。
 
-![NekoBox for Android 打开更多菜单截图](../../assets/images/tutorial/49.png)
+<img src="../../assets/images/tutorial/49.png" alt="NekoBox for Android 打开更多菜单截图" width="360">
 
 ### 9. 选择连接测试
 
 在菜单中选择连接测试。
 
-![NekoBox for Android 选择连接测试截图](../../assets/images/tutorial/50.png)
+<img src="../../assets/images/tutorial/50.png" alt="NekoBox for Android 选择连接测试截图" width="360">
 
 ### 10. 执行 URL Test
 
 选择 URL Test，等待测速完成后使用有延迟的节点。
 
-![NekoBox for Android 执行 URL Test截图](../../assets/images/tutorial/51.png)
+<img src="../../assets/images/tutorial/51.png" alt="NekoBox for Android 执行 URL Test截图" width="360">
 
 ## 使用建议
 

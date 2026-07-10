@@ -18,13 +18,13 @@
 
 下图是 FlClash for Android 的软件图标，用于确认没有打开到其他同名或仿冒客户端。
 
-![FlClash for Android 软件图标截图](../../assets/images/tutorial/52.png)
+<img src="../../assets/images/tutorial/52.png" alt="FlClash for Android 软件图标截图" width="360">
 
 ### 主界面预览
 
 下图是 FlClash for Android 的主界面或初始界面，后续步骤会从这里开始操作。
 
-![FlClash for Android 主界面预览截图](../../assets/images/tutorial/53.png)
+<img src="../../assets/images/tutorial/53.png" alt="FlClash for Android 主界面预览截图" width="360">
 
 ## 操作步骤
 
@@ -32,37 +32,37 @@
 
 点击配置选项，再点击加号添加订阅。
 
-![FlClash for Android 进入配置截图](../../assets/images/tutorial/54.png)
+<img src="../../assets/images/tutorial/54.png" alt="FlClash for Android 进入配置截图" width="360">
 
 ### 2. 选择 URL
 
 在添加配置中选择“URL/通过 URL 获取配置文件”。
 
-![FlClash for Android 选择 URL截图](../../assets/images/tutorial/55.png)
+<img src="../../assets/images/tutorial/55.png" alt="FlClash for Android 选择 URL截图" width="360">
 
 ### 3. 提交订阅链接
 
 将官网复制的订阅链接粘贴到 URL 输入框，然后点击提交。
 
-![FlClash for Android 提交订阅链接截图](../../assets/images/tutorial/56.png)
+<img src="../../assets/images/tutorial/56.png" alt="FlClash for Android 提交订阅链接截图" width="360">
 
 ### 4. 确认下载成功
 
 看到配置已经出现在列表中，说明订阅已保存到手机。
 
-![FlClash for Android 确认下载成功截图](../../assets/images/tutorial/57.png)
+<img src="../../assets/images/tutorial/57.png" alt="FlClash for Android 确认下载成功截图" width="360">
 
 ### 5. 开启连接
 
 返回仪表盘，点击右下角按钮开启代理。
 
-![FlClash for Android 开启连接截图](../../assets/images/tutorial/58.png)
+<img src="../../assets/images/tutorial/58.png" alt="FlClash for Android 开启连接截图" width="360">
 
 ### 6. 测速选节点
 
 进入代理页，点击右下角测速按钮，选择有延迟的节点使用。
 
-![FlClash for Android 测速选节点截图](../../assets/images/tutorial/59.png)
+<img src="../../assets/images/tutorial/59.png" alt="FlClash for Android 测速选节点截图" width="360">
 
 ## 使用建议
 

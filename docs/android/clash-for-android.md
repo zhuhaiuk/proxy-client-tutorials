@@ -18,13 +18,13 @@
 
 下图是 Clash for Android 的软件图标，用于确认没有打开到其他同名或仿冒客户端。
 
-![Clash for Android 软件图标截图](../../assets/images/tutorial/1.png)
+<img src="../../assets/images/tutorial/1.png" alt="Clash for Android 软件图标截图" width="360">
 
 ### 主界面预览
 
 下图是 Clash for Android 的主界面或初始界面，后续步骤会从这里开始操作。
 
-![Clash for Android 主界面预览截图](../../assets/images/tutorial/2.png)
+<img src="../../assets/images/tutorial/2.png" alt="Clash for Android 主界面预览截图" width="360">
 
 ## 操作步骤
 
@@ -32,43 +32,43 @@
 
 打开 Clash for Android 后，点击首页的“配置/未选择”入口，准备导入订阅配置。
 
-![Clash for Android 进入配置页截图](../../assets/images/tutorial/2.png)
+<img src="../../assets/images/tutorial/2.png" alt="Clash for Android 进入配置页截图" width="360">
 
 ### 2. 添加配置
 
 进入配置列表后点击右上角的加号，新建一个配置来源。
 
-![Clash for Android 添加配置截图](../../assets/images/tutorial/3.png)
+<img src="../../assets/images/tutorial/3.png" alt="Clash for Android 添加配置截图" width="360">
 
 ### 3. 选择 URL 导入
 
 在导入方式里选择“URL/从 URL 导入”，用于添加机场或代理服务提供的订阅链接。
 
-![Clash for Android 选择 URL 导入截图](../../assets/images/tutorial/4.png)
+<img src="../../assets/images/tutorial/4.png" alt="Clash for Android 选择 URL 导入截图" width="360">
 
 ### 4. 填写订阅链接
 
 在 URL 输入框粘贴订阅链接；名称可以填写服务商或套餐备注，方便以后区分。填写后点击右上角保存。
 
-![Clash for Android 填写订阅链接截图](../../assets/images/tutorial/5.png)
+<img src="../../assets/images/tutorial/5.png" alt="Clash for Android 填写订阅链接截图" width="360">
 
 ### 5. 选中配置
 
 保存后回到配置列表，点选刚刚导入的配置，让圆点变为选中状态。
 
-![Clash for Android 选中配置截图](../../assets/images/tutorial/6.png)
+<img src="../../assets/images/tutorial/6.png" alt="Clash for Android 选中配置截图" width="360">
 
 ### 6. 启动代理
 
 返回首页，确认配置已激活，然后点击“已停止/点此启动”开启代理服务。
 
-![Clash for Android 启动代理截图](../../assets/images/tutorial/7.png)
+<img src="../../assets/images/tutorial/7.png" alt="Clash for Android 启动代理截图" width="360">
 
 ### 7. 测试节点延迟
 
 进入“代理/规则模式”，点击右上角闪电按钮测试延迟，优先选择有延迟数值的节点。
 
-![Clash for Android 测试节点延迟截图](../../assets/images/tutorial/8.png)
+<img src="../../assets/images/tutorial/8.png" alt="Clash for Android 测试节点延迟截图" width="360">
 
 ## 使用建议
 

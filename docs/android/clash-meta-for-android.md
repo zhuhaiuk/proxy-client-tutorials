@@ -18,13 +18,13 @@
 
 下图是 Clash Meta for Android 的软件图标，用于确认没有打开到其他同名或仿冒客户端。
 
-![Clash Meta for Android 软件图标截图](../../assets/images/tutorial/9.png)
+<img src="../../assets/images/tutorial/9.png" alt="Clash Meta for Android 软件图标截图" width="360">
 
 ### 主界面预览
 
 下图是 Clash Meta for Android 的主界面或初始界面，后续步骤会从这里开始操作。
 
-![Clash Meta for Android 主界面预览截图](../../assets/images/tutorial/10.png)
+<img src="../../assets/images/tutorial/10.png" alt="Clash Meta for Android 主界面预览截图" width="360">
 
 ## 操作步骤
 
@@ -32,43 +32,43 @@
 
 在首页点击“配置/未选择”，进入配置管理页面。
 
-![Clash Meta for Android 进入配置模块截图](../../assets/images/tutorial/10.png)
+<img src="../../assets/images/tutorial/10.png" alt="Clash Meta for Android 进入配置模块截图" width="360">
 
 ### 2. 点击加号
 
 点击右上角加号，准备添加新的远程订阅配置。
 
-![Clash Meta for Android 点击加号截图](../../assets/images/tutorial/3.png)
+<img src="../../assets/images/tutorial/3.png" alt="Clash Meta for Android 点击加号截图" width="360">
 
 ### 3. 选择 URL 导入
 
 在导入方式中选择“URL/从 URL 导入”。
 
-![Clash Meta for Android 选择 URL 导入截图](../../assets/images/tutorial/4.png)
+<img src="../../assets/images/tutorial/4.png" alt="Clash Meta for Android 选择 URL 导入截图" width="360">
 
 ### 4. 粘贴订阅
 
 将机场官网复制的订阅链接粘贴到 URL 栏，名称填写易识别的备注，然后保存。
 
-![Clash Meta for Android 粘贴订阅截图](../../assets/images/tutorial/5.png)
+<img src="../../assets/images/tutorial/5.png" alt="Clash Meta for Android 粘贴订阅截图" width="360">
 
 ### 5. 选中订阅
 
 在配置列表中选中新导入的订阅，使其成为当前活动配置。
 
-![Clash Meta for Android 选中订阅截图](../../assets/images/tutorial/11.png)
+<img src="../../assets/images/tutorial/11.png" alt="Clash Meta for Android 选中订阅截图" width="360">
 
 ### 6. 启动连接
 
 回到首页，确认配置已激活后点击启动按钮。
 
-![Clash Meta for Android 启动连接截图](../../assets/images/tutorial/12.png)
+<img src="../../assets/images/tutorial/12.png" alt="Clash Meta for Android 启动连接截图" width="360">
 
 ### 7. 测速选节点
 
 进入代理页，点击闪电图标测试延迟，选择有延迟反馈的节点使用。
 
-![Clash Meta for Android 测速选节点截图](../../assets/images/tutorial/8.png)
+<img src="../../assets/images/tutorial/8.png" alt="Clash Meta for Android 测速选节点截图" width="360">
 
 ## 使用建议
 

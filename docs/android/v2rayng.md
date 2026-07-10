@@ -18,13 +18,13 @@
 
 下图是 V2rayNG 的软件图标，用于确认没有打开到其他同名或仿冒客户端。
 
-![V2rayNG 软件图标截图](../../assets/images/tutorial/13.png)
+<img src="../../assets/images/tutorial/13.png" alt="V2rayNG 软件图标截图" width="360">
 
 ### 主界面预览
 
 下图是 V2rayNG 的主界面或初始界面，后续步骤会从这里开始操作。
 
-![V2rayNG 主界面预览截图](../../assets/images/tutorial/14.png)
+<img src="../../assets/images/tutorial/14.png" alt="V2rayNG 主界面预览截图" width="360">
 
 ## 操作步骤
 
@@ -32,37 +32,37 @@
 
 在主界面进入订阅分组设置。
 
-![V2rayNG 打开订阅分组截图](../../assets/images/tutorial/15.png)
+<img src="../../assets/images/tutorial/15.png" alt="V2rayNG 打开订阅分组截图" width="360">
 
 ### 2. 新增分组
 
 点击右上角加号，新建一个订阅分组。
 
-![V2rayNG 新增分组截图](../../assets/images/tutorial/16.png)
+<img src="../../assets/images/tutorial/16.png" alt="V2rayNG 新增分组截图" width="360">
 
 ### 3. 填写地址
 
 在“可选地址/url”粘贴订阅链接，备注填写服务名或套餐名，点击勾号保存。
 
-![V2rayNG 填写地址截图](../../assets/images/tutorial/17.png)
+<img src="../../assets/images/tutorial/17.png" alt="V2rayNG 填写地址截图" width="360">
 
 ### 4. 更新订阅
 
 返回上一级页面，点击右上角刷新按钮，将远程订阅下载到手机。
 
-![V2rayNG 更新订阅截图](../../assets/images/tutorial/18.png)
+<img src="../../assets/images/tutorial/18.png" alt="V2rayNG 更新订阅截图" width="360">
 
 ### 5. 打开菜单
 
 回到节点列表，点击右上角三个点打开更多操作。
 
-![V2rayNG 打开菜单截图](../../assets/images/tutorial/20.png)
+<img src="../../assets/images/tutorial/20.png" alt="V2rayNG 打开菜单截图" width="360">
 
 ### 6. 测试真连接
 
 选择“测试全部配置真链接”，等待测速完成；测试后优先选择有延迟数值的节点，再开启连接。
 
-![V2rayNG 测试真连接截图](../../assets/images/tutorial/19.png)
+<img src="../../assets/images/tutorial/19.png" alt="V2rayNG 测试真连接截图" width="360">
 
 ## 使用建议
 

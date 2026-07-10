@@ -18,13 +18,13 @@
 
 下图是 Surfboard 的软件图标，用于确认没有打开到其他同名或仿冒客户端。
 
-![Surfboard 软件图标截图](../../assets/images/tutorial/21.png)
+<img src="../../assets/images/tutorial/21.png" alt="Surfboard 软件图标截图" width="360">
 
 ### 主界面预览
 
 下图是 Surfboard 的主界面或初始界面，后续步骤会从这里开始操作。
 
-![Surfboard 主界面预览截图](../../assets/images/tutorial/22.png)
+<img src="../../assets/images/tutorial/22.png" alt="Surfboard 主界面预览截图" width="360">
 
 ## 操作步骤
 
@@ -32,25 +32,25 @@
 
 在底部或首页进入配置页面，点击右下角加号。
 
-![Surfboard 进入配置截图](../../assets/images/tutorial/23.png)
+<img src="../../assets/images/tutorial/23.png" alt="Surfboard 进入配置截图" width="360">
 
 ### 2. 选择从 URL 导入
 
 在弹出的导入方式中选择“从 URL 导入”，粘贴订阅链接并保存，等待配置下载完成。
 
-![Surfboard 选择从 URL 导入截图](../../assets/images/tutorial/24.png)
+<img src="../../assets/images/tutorial/24.png" alt="Surfboard 选择从 URL 导入截图" width="360">
 
 ### 3. 确认导入结果
 
 看到配置已出现在列表中，说明订阅已经成功添加。
 
-![Surfboard 确认导入结果截图](../../assets/images/tutorial/25.png)
+<img src="../../assets/images/tutorial/25.png" alt="Surfboard 确认导入结果截图" width="360">
 
 ### 4. 启动并测速
 
 返回仪表盘开启连接，再测试节点延迟，选择可用节点使用。
 
-![Surfboard 启动并测速截图](../../assets/images/tutorial/26.png)
+<img src="../../assets/images/tutorial/26.png" alt="Surfboard 启动并测速截图" width="360">
 
 ## 使用建议
 

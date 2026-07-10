@@ -18,13 +18,13 @@
 
 下图是 Hiddify for Android 的软件图标，用于确认没有打开到其他同名或仿冒客户端。
 
-![Hiddify for Android 软件图标截图](../../assets/images/tutorial/36.png)
+<img src="../../assets/images/tutorial/36.png" alt="Hiddify for Android 软件图标截图" width="360">
 
 ### 主界面预览
 
 下图是 Hiddify for Android 的主界面或初始界面，后续步骤会从这里开始操作。
 
-![Hiddify for Android 主界面预览截图](../../assets/images/tutorial/37.png)
+<img src="../../assets/images/tutorial/37.png" alt="Hiddify for Android 主界面预览截图" width="360">
 
 ## 操作步骤
 
@@ -32,25 +32,25 @@
 
 在首页点击添加新的配置文件，选择手动输入。
 
-![Hiddify for Android 添加配置文件截图](../../assets/images/tutorial/38.png)
+<img src="../../assets/images/tutorial/38.png" alt="Hiddify for Android 添加配置文件截图" width="360">
 
 ### 2. 填写订阅地址
 
 名称填写备注，网址粘贴订阅链接，点击右上角保存。
 
-![Hiddify for Android 填写订阅地址截图](../../assets/images/tutorial/39.png)
+<img src="../../assets/images/tutorial/39.png" alt="Hiddify for Android 填写订阅地址截图" width="360">
 
 ### 3. 确认保存成功
 
 看到配置文件保存成功提示后，点击连接。
 
-![Hiddify for Android 确认保存成功截图](../../assets/images/tutorial/40.png)
+<img src="../../assets/images/tutorial/40.png" alt="Hiddify for Android 确认保存成功截图" width="360">
 
 ### 4. 选择节点
 
 Hiddify 会自动测试延迟，选择有延迟反馈的节点使用。
 
-![Hiddify for Android 选择节点截图](../../assets/images/tutorial/41.png)
+<img src="../../assets/images/tutorial/41.png" alt="Hiddify for Android 选择节点截图" width="360">
 
 ## 使用建议
 

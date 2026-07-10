@@ -352,6 +352,14 @@ const extraDocs = [
 4. 不要开启共享账号的双重认证升级，也不要把个人资料同步到陌生账号。
 5. 使用其他 Apple ID 更新已下载应用时，可能要求原下载账号验证；无法验证时通常需要卸载后重新下载。
 
+## 共享小火箭账号地址
+
+共享 Shadowrocket / 小火箭 Apple ID 查询地址：
+
+https://ccbaohe.com/appleID/
+
+使用共享账号时，只在 App Store 登录，不要登录 iCloud。账号可能随时失效，请以页面实时显示为准。
+
 ## 更稳妥的做法
 
 优先使用自己的外区 Apple ID 购买或下载 Shadowrocket，并妥善保存购买记录。这样后续更新、换机和恢复购买会更稳定。`
@@ -381,24 +389,6 @@ const extraDocs = [
 ## 判断重点
 
 “无效的订阅”不一定代表服务商跑路，也不一定代表账号被封。先重新复制订阅链接并确认套餐状态，通常能解决大部分问题。`
-  },
-  {
-    path: "docs/tools/traffic-bot-binding.md",
-    content: `# 怎么绑定查询流量机器人
-
-适用关键词：查询流量机器人、订阅流量查询、机场流量机器人、Telegram bot 绑定订阅。
-
-## 机器人地址
-
-\`@changding_bot\`
-
-## 绑定格式
-
-\`\`\`text
-/bind URL Sub
-\`\`\`
-
-将 \`URL\` 替换为你的订阅链接或服务商要求的绑定地址。绑定前请确认机器人来自服务商官方渠道，不要把订阅链接发送给不可信机器人。`
   }
 ];
 
@@ -468,8 +458,11 @@ function write(file, content) {
   fs.writeFileSync(file, content.trimStart() + "\n");
 }
 
-function imageLink(id, alt) {
+function imageLink(id, alt, platform) {
   const name = `${id}.png`;
+  if (platform === "Android") {
+    return `<img src="../../assets/images/tutorial/${name}" alt="${alt}" width="360">`;
+  }
   return `![${alt}](../../assets/images/tutorial/${name})`;
 }
 
@@ -499,13 +492,13 @@ function renderTutorial(tutorial) {
     "",
     `下图是 ${tutorial.app} 的软件图标，用于确认没有打开到其他同名或仿冒客户端。`,
     "",
-    imageLink(tutorial.images[0], `${tutorial.app} 软件图标截图`),
+    imageLink(tutorial.images[0], `${tutorial.app} 软件图标截图`, tutorial.platform),
     "",
     `### 主界面预览`,
     "",
     `下图是 ${tutorial.app} 的主界面或初始界面，后续步骤会从这里开始操作。`,
     "",
-    imageLink(tutorial.images[1], `${tutorial.app} 主界面预览截图`),
+    imageLink(tutorial.images[1], `${tutorial.app} 主界面预览截图`, tutorial.platform),
     "",
     "## 操作步骤",
     ""
@@ -513,13 +506,13 @@ function renderTutorial(tutorial) {
 
   for (const [index, step] of actionSteps.entries()) {
     const img = actionImages[index];
-    lines.push(`### ${index + 1}. ${step[0]}`, "", step[1], "", imageLink(img, `${tutorial.app} ${step[0]}截图`), "");
+    lines.push(`### ${index + 1}. ${step[0]}`, "", step[1], "", imageLink(img, `${tutorial.app} ${step[0]}截图`, tutorial.platform), "");
   }
 
   if (actionImages.length > actionSteps.length) {
     lines.push("## 补充截图", "");
     for (const img of actionImages.slice(actionSteps.length)) {
-      lines.push(imageLink(img, `${tutorial.app} 补充截图 ${img}`), "");
+      lines.push(imageLink(img, `${tutorial.app} 补充截图 ${img}`, tutorial.platform), "");
     }
   }
 
@@ -561,7 +554,6 @@ function renderReadme() {
 
 - [代理软件下载地址](docs/proxy-client-downloads.md)
 - [更新订阅提示无效的订阅怎么办](docs/troubleshooting/invalid-subscription.md)
-- [查询流量机器人绑定教程](docs/tools/traffic-bot-binding.md)
 - [Shadowrocket 小火箭使用教程](docs/ios/shadowrocket.md)
 - [Shadowrocket 账号与下载安全提醒](docs/ios/shadowrocket-account-safety.md)
 
