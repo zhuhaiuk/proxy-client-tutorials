@@ -14,7 +14,7 @@
 
 共享 Shadowrocket / 小火箭 Apple ID 查询地址：
 
-https://ccbaohe.com/appleID/
+https://zhuhai.uk/id
 
 使用共享账号时，只在 App Store 登录，不要登录 iCloud。账号可能随时失效，请以页面实时显示为准。
 
